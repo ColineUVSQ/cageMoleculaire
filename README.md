@@ -35,5 +35,6 @@ Des fichiers .png pour visualiser les graphes de cycles et les graphes de coins 
 [1] Stefi Nouleho Ilemo, Dominique Barth, Olivier David, Franck Quessette, Marc-Antoine Weisser,
 and Dimitri Watel. Improving graphs of cycles approach to structural similarity of molecules.
 PLOS ONE, 14(12):e0226680, December 2019. Publisher: Public Library of Science.
+
 [2] Philippe Vismara. Union of all the Minimum Cycle Bases of a Graph. The Electronic Journal
 of Combinatorics, pages R9–R9, January 1997.
